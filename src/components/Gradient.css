@@ -1,0 +1,10 @@
+.gradient {
+    background: linear-gradient(91.15deg, #B9F022 33.05%, #58C80B 78.42%);
+    font-family: 'Poppins';
+    font-weight: bold;
+    font-size: 48px;
+    height: 162px;
+    line-height: 162px;
+    color: white;
+    text-align: center;
+}

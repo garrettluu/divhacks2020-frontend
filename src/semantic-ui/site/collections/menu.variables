@@ -1,0 +1,11 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@background: #FFFFFF00;
+@fontFamily: 'Roboto';
+@itemTextColor: @white;
+@itemTextSize: 24px;
+@boxShadow: none;
+@borderWidth: 0px;
+@fontSize: 24px;
+

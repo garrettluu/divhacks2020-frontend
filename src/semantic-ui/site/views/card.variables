@@ -1,0 +1,6 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@borderRadius: 25px;
+@fontFamily: 'Roboto';
+@boxShadow: 4px 4px 20px rgba(158, 158, 158, 0.25), -4px -2px 16px rgba(255, 255, 255, 0.8);

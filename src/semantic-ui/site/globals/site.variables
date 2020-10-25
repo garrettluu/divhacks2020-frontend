@@ -1,0 +1,5 @@
+/*******************************
+     User Global Variables
+*******************************/
+@primaryColor: #F5F7FB;
+@fontFamily: 'Roboto';

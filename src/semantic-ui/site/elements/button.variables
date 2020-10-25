@@ -1,0 +1,8 @@
+/*******************************
+    User Variable Overrides
+*******************************/
+@background: linear-gradient(91.86deg, #B9F022 0%, #58C80B 100%);
+@textColor: @white;
+@borderRadius: 10px;
+@fontFamily: 'Poppins';
+@boxShadow: 4px 4px 20px rgba(158, 158, 158, 0.25), -4px -2px 16px rgba(255, 255, 255, 0.8);
