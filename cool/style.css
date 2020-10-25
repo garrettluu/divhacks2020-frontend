@@ -1,0 +1,51 @@
+html{
+    margin-top: 125px;
+    margin-left: 375px;
+}
+h3{
+    font-family: 'Roboto';
+    font-size: 18px;
+    font-style: normal;
+    line-height: 36px;
+}
+textarea{
+    width:550px;
+    height:125px;
+    border: 1px black;
+    box-shadow: 0 0 3px #000000;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+input[type=text]{
+    width: 200px;
+    box-shadow: 0 0 1px #000000;
+}
+#pricetag{
+    width: 75px;
+    margin-left: 18px;
+}
+.name{
+    margin-left: 25px;
+}
+input[type=text]{
+    margin-left: 10px;
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 18px;
+}
+.create{
+    margin-left: 250px;
+}
+.discard{
+    margin-left: 25px;
+}
+.desc{
+    margin-left: 25px;
+}
+input[type=submit]{
+    width: 150px;
+}   
